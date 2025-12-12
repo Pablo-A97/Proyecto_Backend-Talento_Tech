@@ -22,6 +22,7 @@ Una API Rest desarrollada con Node.js y Express para la gestión de productos co
 
    ```bash
    npm install
+   ```
      
 3. Iniciar el servidor:
 
